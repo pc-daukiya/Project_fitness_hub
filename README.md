@@ -31,7 +31,7 @@ Fitness Hub is a comprehensive web application designed to provide users with a 
 1. Set up a local server environment (e.g., XAMPP) with PHP and MySQL.
 2. Import the database if applicable (database file not included here).
 3. Place the project folder in the server's root directory (e.g., `htdocs` for XAMPP).
-4. Access the application via `http://localhost/"projectname" in your web browser.
+4. Access the application via `http://localhost/"projectname"` in your web browser.
 
 
 ---
